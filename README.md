@@ -31,7 +31,7 @@ To explore and interact with our `Auditing-Smart-Contracts` project, follow thes
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/Innovation-Web-3-0-Blockchain/Auditing-Smart-Contracts.git
+    git clone https://github.com/ViditGalav/Smart_Contract_Auditing.git
     ```
 
 2. Ensure you have `node.js` and `npm` installed in your environment.
