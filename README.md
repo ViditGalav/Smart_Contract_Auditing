@@ -83,22 +83,4 @@ Contributions to this project are welcome and encouraged. If you identify any bu
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Future Updates
 
-As hackers continue to innovate, we are committed to staying up-to-date with the latest developments in the security landscape. We will continuously improve our methods for auditing smart contracts to ensure the highest level of protection for decentralized systems.
-
-## Donations
-
-### Our Values
-
-We do not use any form of social media or engage in marketing activities. Our principles are rooted in open source and privacy, and we do not receive compensation for our contributions to GitHub. Furthermore, we do not endorse or have affiliations with any other projects.
-
-### Supporting Us
-
-While we remain committed to providing valuable resources, any donations are greatly appreciated. Your support will help us offset the time and effort we invest in these projects to facilitate access to accessible information.
-
-### Donation Options
-
-We welcome contributions in Bitcoin and Monero, and you can send contributions by scanning one of the addresses in the QR codes at the following link: [Donate to Innovation Web 3.0](https://innovationweb3.github.io/)
-
-Thank you for your support and for being part of our community!
